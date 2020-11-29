@@ -1,7 +1,5 @@
 # gvinodh89
 
-Hello!
-
 It analysis the 10 most frequent routes of the trips reported in the last 30 minutes and runs for every 1 second
 
 1. External jar simplelatlng-1.3.1.jar is required for latitude and longitude calculations
